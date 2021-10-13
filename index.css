@@ -354,3 +354,19 @@ z-index: 2;
 .mrgnlft{
     margin-left: 10px;
 }
+
+.credit{
+    color: white;
+    font-family: 'rubik';
+    position: absolute;
+    bottom: 10px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#link{
+    color: rgb(48, 206, 158);
+    text-decoration: underline;
+}
