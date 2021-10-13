@@ -146,6 +146,7 @@ align-items: center;
 justify-content: center;    
 position: relative;
 top: 65px;
+text-align:center;
 }
 
 #input{
@@ -172,6 +173,7 @@ position: relative;
     display:block;
     position: relative;
     top: 95px;
+    text-align:center;
 
 }
 
@@ -358,8 +360,8 @@ z-index: 2;
 .credit{
     color: white;
     font-family: 'rubik';
-    position: absolute;
-    bottom: 10px;
+    position: fixed;
+    bottom: 5px;
     width: 100vw;
     display: flex;
     align-items: center;
